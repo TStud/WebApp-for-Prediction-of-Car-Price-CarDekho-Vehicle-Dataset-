@@ -24,5 +24,13 @@ While making this project I used python 3.7. If you are using any lower variant 
 ```
 pip install -r requirements.txt
 ```
+## To Run the Project
+
+Once you clone the directory and install all the requirements, simply open terminal in the folder where your project is saved and run the following command:
+
+```
+python app.py
+```
+
 ## Technologies and Frameworks used
 ![Image of Technologies](https://theforetech.com/wp-content/uploads/2020/08/technologies.png)
