@@ -13,7 +13,7 @@ What will you do when you get a whole lot of spare time that's too for about 4-5
 Link: https://cardekhocarpriceprediction.herokuapp.com/
 
 ## Screenshots
-![Image of Yaktocat](https://github.com/TStud/WebApp-for-Prediction-of-Car-Price-CarDekho-Vehicle-Dataset-/blob/master/Screenshot%202020-08-31%20at%209.15.12%20PM.png)
+(https://github.com/TStud/WebApp-for-Prediction-of-Car-Price-CarDekho-Vehicle-Dataset-/blob/master/Screenshot%202020-08-31%20at%209.15.12%20PM.png)
 
 
 ## Installation
@@ -23,3 +23,5 @@ While making this project I used python 3.7. If you are using any lower variant 
 ```
 pip install -r requirements.txt
 ```
+## Technologies and Frameworks used
+(https://theforetech.com/wp-content/uploads/2020/08/technologies.png)
