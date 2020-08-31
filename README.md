@@ -6,7 +6,7 @@ A simple webapp made using flask for predicting car prices while buying any seco
 
 ## Motivation
 
-What will you do when you get a whole lot of spare time that's too for about 4-5 months? Obviously you will think on utilizing this time by acquiring some new skills or learning something new rather than just binge watching our favourite Netflix's web series. Just like that I decided to work on some project by using my Data Science knowledge to develop something interesting and cool. So I just found this amazing dataset on Kaggle which let me make this amazing and small deployed project which can predict car prices.
+What will you do when you get a whole lot of spare time that's too for about 4-5 months? Obviously you will think on utilizing this time by acquiring some new skills or learning something new rather than just binge watching our favourite Netflix's web series. Just like that I decided to work on some project by using my Data Science knowledge to develop something interesting and cool. So I just found this amazing dataset on Kaggle which let me make this amazing and small end-to-end project which can predict car prices.
 
 ## Demo
 
