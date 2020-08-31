@@ -18,7 +18,7 @@ Link: https://cardekhocarpriceprediction.herokuapp.com/
 
 ## Installation
 
-While making this project I used python 3.7. If you are using any lower variant of python then I recommend you to upgrade your python to the latest version by using pip. Once you clone thos repository just type this command in the cloned project directory in order to install all the required packages:
+While making this project I used python 3.7. If you are using any lower variant of python then I recommend you to upgrade your python to the latest version by using pip. Once you clone this repository just type this command in the cloned project directory in order to install all the required packages:
 
 ```
 pip install -r requirements.txt
